@@ -1,5 +1,5 @@
 # Beavercoffee
 
 ## Add employee
-- URL
-/storeId/employees
+- **URL**
+  /storeId/employees
