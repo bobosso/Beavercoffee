@@ -2,4 +2,4 @@
 
 ## Add employee
 - **URL**
-  /storeId/employees
+    /:storeId/employees
